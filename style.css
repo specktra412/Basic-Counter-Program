@@ -1,0 +1,26 @@
+#labelbtn {
+    font-family: Courier;
+    display:block;
+    font-size: 7.5cm;
+    text-align:center;
+
+}
+
+#ButtonTypes {
+    text-align: center;
+}
+
+.buttons {
+    font-family: Courier;
+    font-size: 1cm;
+    padding: 10px 100px;
+    color: white;
+    background-color: rgb(80, 80, 221);
+    cursor: pointer;
+    transition: background-color 0.5s;
+
+}
+
+.buttons:hover {
+    background-color: rgb(3, 3, 133);
+}
